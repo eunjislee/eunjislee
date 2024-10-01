@@ -1,6 +1,8 @@
+![Hatō zu 2](https://github.com/user-attachments/assets/3765974b-e503-447c-8801-9aa33d1f8216)
+
 ## About Me 🪼
 Hi! im a sophomore at UNC studying CS and Studio Arts. Im interested in computer graphics, UI/UX design, and iOS development!
-![Hatō zu 2](https://github.com/user-attachments/assets/3765974b-e503-447c-8801-9aa33d1f8216)
+
 
 
 ## Skills
