@@ -5,25 +5,25 @@ Hi! im a sophomore at UNC studying CS and Studio Arts. Im interested in computer
 
 
 
-## Skills
+## Skills ✨
 
-### Classes
+### Classes 📚
 - Learned the fundamentals and python in **COMP 110**
 
 - learning Java in **COMP 210**
 
 - currently learning about the terminal and Git in **COMP 290!**
 
-### Tools and Programming Languages
-Python 
+### Tools and Programming Languages 🌊
+Python 🐍
 - Grade calculator
 - Wordle
 - Tea party invitation generator 
 
 - Compstagram
 
-Java
+Java ☕
 
-Git
+Git 💻
 
-Docker
+Docker 🐳
